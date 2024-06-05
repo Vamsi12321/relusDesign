@@ -1,0 +1,36 @@
+.right-sidebar {
+  margin-top: 7px;
+}
+.user {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.childUser {
+  top: 58px;
+  position: absolute;
+  display: flex;
+  color: white;
+  font-size: 14px;
+  margin-left: 15px;
+}
+.text {
+  margin-top: 10px;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.text .name {
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+.credits {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.credits div {
+  font-size: 12px;
+  color: gray;
+  margin-top: 10px;
+}
